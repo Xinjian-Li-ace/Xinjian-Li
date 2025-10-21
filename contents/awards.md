@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- “华为杯”研究生数学建模竞赛国家三等奖, 东南大学, 2023. 
+- 校级一等奖学金, 2024.  

@@ -8,7 +8,7 @@ I am currently pursuing a master's degree at Shanghai Polytechnic University，2
 #### Education  
 **Shanghai Polytechnic University**, Master,  Shanghai Polytechnic University
 
-**XX University**, Bachelor's degree <br>  
+**Shanghai Polytechnic University**, Bachelor's degree <br>  
 
 #### Research Interests  
 semi-supervised 3D object detection, Machine vision.

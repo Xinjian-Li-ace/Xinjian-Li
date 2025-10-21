@@ -1,6 +1,2 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- SONG Shaojing,** LI Xinjian**, and FANG Feiyi. A review of point cloud fusion technology: Methods, applications, and challenges[J]. Journal of Radars, 2025, 14(3): 528–547. doi:  10.12000/JR24236
+- Xiang Z, Song S,** Li X**, et al. Prediction of Stroke Hematoma Expansion Using a Machine Learning Model with Stacked Generalization[C]//2024 IEEE/ACIS 24th International Conference on Computer and Information Science (ICIS). IEEE, 2024: 90-94.

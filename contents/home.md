@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 I am currently pursuing a master's degree at Shanghai Polytechnic University，2023-2026.
 
 #### Email  
